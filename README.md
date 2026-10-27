@@ -1,5 +1,13 @@
 Comandos Git
 # Controle de Estoque - Projeto Base SAEP
+Link arquivos auxiliares https://github.com/gustavoamo-professor/saep
+Comandos .git pro push
+git init
+git remote add origin https://github.com/gustavoamo-professor/saep.git
+git switch -c NOMEDESIGNADONAPROVA
+git add .
+git commit -m "Adiciona alterações de Gustavo"
+git push -u origin NOMEDESIGNADONAPROVA
 
 
 
